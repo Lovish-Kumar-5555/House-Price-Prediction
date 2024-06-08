@@ -48,7 +48,7 @@ This repository offers a model for house price prediction by creating a pipeline
 
 **Clone the Repository:**
    
-    git clone https://github.com/yourusername/house-price-prediction.git
+    git clone https://github.com/Lovish-Kumar-5555/house-price-prediction.git
     cd house-price-prediction
     
 **Install Dependencies:**
